@@ -1,0 +1,32 @@
+#principal{
+    border: solid 1px black;
+    width: 80%;
+    margin: 0 auto;
+}
+
+fieldset{
+    margin-bottom: 10px;
+
+}
+
+legend{
+    border: solid 1px rgb(172, 24, 132);
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 20px;
+    background: rgb(0, 0, 0);
+}
+
+#MiFoto{
+    margin: 5px;
+    border: solid 4px black;
+    border-radius: 20px;
+}
+
+body{
+    background: url(media/fondo11.jpg);
+}
+legend{ 
+    color:#ffff;
+
+}
